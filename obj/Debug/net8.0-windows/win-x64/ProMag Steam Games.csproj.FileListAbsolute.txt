@@ -1,0 +1,11 @@
+F:\repo\ProMag Steam Games\obj\Debug\net8.0-windows\win-x64\ProMag_Steam_Games.AllGamesForm.resources
+F:\repo\ProMag Steam Games\obj\Debug\net8.0-windows\win-x64\ProMag_Steam_Games.Form1.resources
+F:\repo\ProMag Steam Games\obj\Debug\net8.0-windows\win-x64\ProMag_Steam_Games.HistoryForm.resources
+F:\repo\ProMag Steam Games\obj\Debug\net8.0-windows\win-x64\ProMag_Steam_Games.PackagesForm.resources
+F:\repo\ProMag Steam Games\obj\Debug\net8.0-windows\win-x64\ProMag_Steam_Games.Properties.Resources.resources
+F:\repo\ProMag Steam Games\obj\Debug\net8.0-windows\win-x64\ProMag_Steam_Games.SettingsForm.resources
+F:\repo\ProMag Steam Games\obj\Debug\net8.0-windows\win-x64\ProMag Steam Games.csproj.GenerateResource.cache
+F:\repo\ProMag Steam Games\obj\Debug\net8.0-windows\win-x64\ProMag Steam Games.GeneratedMSBuildEditorConfig.editorconfig
+F:\repo\ProMag Steam Games\obj\Debug\net8.0-windows\win-x64\ProMag Steam Games.AssemblyInfoInputs.cache
+F:\repo\ProMag Steam Games\obj\Debug\net8.0-windows\win-x64\ProMag Steam Games.AssemblyInfo.cs
+F:\repo\ProMag Steam Games\obj\Debug\net8.0-windows\win-x64\ProMag Steam Games.csproj.CoreCompileInputs.cache

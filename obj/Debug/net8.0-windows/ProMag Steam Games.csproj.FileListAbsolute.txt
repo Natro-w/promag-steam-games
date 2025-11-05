@@ -1,0 +1,25 @@
+F:\repo\ProMag Steam Games\bin\Debug\net8.0-windows\ProMag Steam Games.exe
+F:\repo\ProMag Steam Games\bin\Debug\net8.0-windows\ProMag Steam Games.dll.config
+F:\repo\ProMag Steam Games\bin\Debug\net8.0-windows\ProMag Steam Games.deps.json
+F:\repo\ProMag Steam Games\bin\Debug\net8.0-windows\ProMag Steam Games.runtimeconfig.json
+F:\repo\ProMag Steam Games\bin\Debug\net8.0-windows\ProMag Steam Games.dll
+F:\repo\ProMag Steam Games\bin\Debug\net8.0-windows\ProMag Steam Games.pdb
+F:\repo\ProMag Steam Games\bin\Debug\net8.0-windows\Newtonsoft.Json.dll
+F:\repo\ProMag Steam Games\obj\Debug\net8.0-windows\ProMag Steam Games.csproj.AssemblyReference.cache
+F:\repo\ProMag Steam Games\obj\Debug\net8.0-windows\ProMag_Steam_Games.AllGamesForm.resources
+F:\repo\ProMag Steam Games\obj\Debug\net8.0-windows\ProMag_Steam_Games.Form1.resources
+F:\repo\ProMag Steam Games\obj\Debug\net8.0-windows\ProMag_Steam_Games.HistoryForm.resources
+F:\repo\ProMag Steam Games\obj\Debug\net8.0-windows\ProMag_Steam_Games.PackagesForm.resources
+F:\repo\ProMag Steam Games\obj\Debug\net8.0-windows\ProMag_Steam_Games.Properties.Resources.resources
+F:\repo\ProMag Steam Games\obj\Debug\net8.0-windows\ProMag_Steam_Games.SettingsForm.resources
+F:\repo\ProMag Steam Games\obj\Debug\net8.0-windows\ProMag Steam Games.csproj.GenerateResource.cache
+F:\repo\ProMag Steam Games\obj\Debug\net8.0-windows\ProMag Steam Games.GeneratedMSBuildEditorConfig.editorconfig
+F:\repo\ProMag Steam Games\obj\Debug\net8.0-windows\ProMag Steam Games.AssemblyInfoInputs.cache
+F:\repo\ProMag Steam Games\obj\Debug\net8.0-windows\ProMag Steam Games.AssemblyInfo.cs
+F:\repo\ProMag Steam Games\obj\Debug\net8.0-windows\ProMag Steam Games.csproj.CoreCompileInputs.cache
+F:\repo\ProMag Steam Games\obj\Debug\net8.0-windows\ProMag S.C2801287.Up2Date
+F:\repo\ProMag Steam Games\obj\Debug\net8.0-windows\ProMag Steam Games.dll
+F:\repo\ProMag Steam Games\obj\Debug\net8.0-windows\refint\ProMag Steam Games.dll
+F:\repo\ProMag Steam Games\obj\Debug\net8.0-windows\ProMag Steam Games.pdb
+F:\repo\ProMag Steam Games\obj\Debug\net8.0-windows\ProMag Steam Games.genruntimeconfig.cache
+F:\repo\ProMag Steam Games\obj\Debug\net8.0-windows\ref\ProMag Steam Games.dll

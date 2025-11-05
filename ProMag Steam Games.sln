@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36518.9
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ProMag Steam Games", "ProMag Steam Games.csproj", "{ACF42FEC-9FB6-41D1-8B43-1D8D89BA5B60}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Debug|x64 = Debug|x64
+		Release|Any CPU = Release|Any CPU
+		Release|x64 = Release|x64
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{ACF42FEC-9FB6-41D1-8B43-1D8D89BA5B60}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ACF42FEC-9FB6-41D1-8B43-1D8D89BA5B60}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ACF42FEC-9FB6-41D1-8B43-1D8D89BA5B60}.Debug|x64.ActiveCfg = Debug|x64
+		{ACF42FEC-9FB6-41D1-8B43-1D8D89BA5B60}.Debug|x64.Build.0 = Debug|x64
+		{ACF42FEC-9FB6-41D1-8B43-1D8D89BA5B60}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ACF42FEC-9FB6-41D1-8B43-1D8D89BA5B60}.Release|Any CPU.Build.0 = Release|Any CPU
+		{ACF42FEC-9FB6-41D1-8B43-1D8D89BA5B60}.Release|x64.ActiveCfg = Release|Any CPU
+		{ACF42FEC-9FB6-41D1-8B43-1D8D89BA5B60}.Release|x64.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8F787C13-EFCE-457D-9970-C9C9A2BA1759}
+	EndGlobalSection
+EndGlobal
